@@ -54,5 +54,3 @@ Pass a queryset:
 
 .. |downloads| image:: https://pepy.tech/badge/edc-model-to-dataframe
    :target: https://pepy.tech/project/edc-model-to-dataframe
-
-
